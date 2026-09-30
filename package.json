@@ -1,10 +1,10 @@
 {
-  "name": "pi-vipi-themes",
-  "repository": { "type": "git", "url": "git+https://github.com/vimhead/pi-vipi-themes.git" },
-  "homepage": "https://github.com/vimhead/pi-vipi-themes#readme",
-  "bugs": { "url": "https://github.com/vimhead/pi-vipi-themes/issues" },
+  "name": "vipir-themes",
+  "repository": { "type": "git", "url": "git+https://github.com/vimhead/vipir-themes.git" },
+  "homepage": "https://github.com/vimhead/vipir-themes#readme",
+  "bugs": { "url": "https://github.com/vimhead/vipir-themes/issues" },
   "version": "0.1.0",
-  "description": "Curated light and dark themes for Vipi and the Pi coding agent.",
+  "description": "Curated light and dark themes for Vipir and the Pi coding agent.",
   "type": "module",
   "license": "MIT",
   "keywords": [
